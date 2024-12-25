@@ -14,8 +14,8 @@
 
 1. Клонируйте репозиторий:
 `
-git clone https://github.com/yourusername/oilapp.git
-cd oilapp
+git clone https://github.com/krasnovdanial/KFU_Test.git
+cd KFU_Test
 `
 2. Создайте виртуальное окружение и активируйте его:
 `
