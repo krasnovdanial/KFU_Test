@@ -22,6 +22,9 @@
 
 `
 git clone https://github.com/krasnovdanial/KFUTest.git
+`
+Далее
+`
 cd KFUTest
 `
 ### 2. Создайте виртуальное окружение и активируйте его
