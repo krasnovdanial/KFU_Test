@@ -20,35 +20,30 @@
 
 ### 1. Клонируйте репозиторий
 
-bash
+`
 git clone https://github.com/krasnovdanial/KFUTest.git
 cd KFUTest
-
+`
 ### 2. Создайте виртуальное окружение и активируйте его
-
-bash
+`
 python -m venv .venv
-
+`
 #### Для Windows
-
-bash
-venv\Scripts\activate
-
+`
+.venv\Scripts\activate
+`
 #### Для macOS/Linux
-
-bash
-source venv/bin/activate
-
+`
+source .venv/bin/activate
+`
 ### 3. Установите зависимости
-
-bash
+`
 pip install -r requirements.txt
-
+`
 ### 4. Запустите приложение
-
-bash
+`
 python app.py
-
+`
 ### 5. Откройте в браузере
 
 Перейдите по адресу: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
